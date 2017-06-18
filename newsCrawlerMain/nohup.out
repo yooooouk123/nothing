@@ -1,0 +1,2230 @@
+Finish reading configuration file...
+Start creating database...
+Finish connecting to database...
+
+Start searching news(naver) with query '(경제)'...
+The entire date range in 2016-11-01 to 2016-11-30
+
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 10361
+
+Range in 2016-11-01 to 2016-11-01
+
+start counting the entire pages...
+2016-12-06 21:45:51.306795
+
+There're 400 pagelists...
+2016-12-06 21:46:04.599154
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+Timeout error with url: http://www.ajunews.com/view/20161101144656066.
+Sleep 20 seconds and retry
+, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29
+Timeout error with url: http://www.ajunews.com/view/20161101121114886.
+Sleep 20 seconds and retry
+, 30, 31, 32
+Timeout error with url: http://www.koreatimes.com/article/1020652.
+Sleep 20 seconds and retry
+, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44
+Timeout error with url: http://www.ajunews.com/view/20161101093401547.
+Sleep 20 seconds and retry
+, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/01/story_n_12745280.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/01/story_n_12745280.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/01/story_n_12745280.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=703530.
+Sleep 20 seconds and retry
+, 85, 86, 87, 88
+Max retrieve error with url: http://www.jobnjoy.com/portal/jobtip/ncs_study_view.jsp?nidx=175692&depth1=1&depth2=3&depth3=6.
+Sleep 20 seconds and retry
+, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116
+Ambiguous exception with url: http://www.huffingtonpost.kr/sangheon-lee/story_b_12744688.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/sangheon-lee/story_b_12744688.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/sangheon-lee/story_b_12744688.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=703626.
+Sleep 20 seconds and retry
+, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187
+Ambiguous exception with url: http://www.huffingtonpost.kr/delaine-moore/story_b_12745156.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/delaine-moore/story_b_12745156.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/delaine-moore/story_b_12745156.html.
+Sleep 20 seconds and retry
+, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217
+Timeout error with url: http://www.ajunews.com/view/20161101181253438.
+Sleep 20 seconds and retry
+, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=165207.
+Sleep 20 seconds and retry
+, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384
+Timeout error with url: http://www.ajunews.com/view/20161101103352717.
+Sleep 20 seconds and retry
+, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 11374
+
+Range in 2016-11-02 to 2016-11-02
+
+start counting the entire pages...
+2016-12-06 22:28:09.959970
+
+There're 400 pagelists...
+2016-12-06 22:28:23.690364
+
+Start page: 1, 2, 3, 4, 5, 6
+Timeout error with url: http://www.ajunews.com/view/20161102172346647.
+Sleep 20 seconds and retry
+, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
+Timeout error with url: http://www.ajunews.com/view/20161102150821438.
+Sleep 20 seconds and retry
+, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57
+Timeout error with url: http://www.ajunews.com/view/20161102092720853.
+Sleep 20 seconds and retry
+, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68
+Timeout error with url: http://www.ajunews.com/view/20161102092632850.
+Sleep 20 seconds and retry
+, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=704056.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=704056.
+Sleep 20 seconds and retry
+, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/02/story_n_12765206.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/02/story_n_12765206.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/02/story_n_12765206.html.
+Sleep 20 seconds and retry
+, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163
+Ambiguous exception with url: http://www.huffingtonpost.kr/wonjae-lee/story_b_12765198.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/wonjae-lee/story_b_12765198.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/wonjae-lee/story_b_12765198.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12746344.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12746344.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322Finish reading configuration file...
+Finish connecting to database...
+
+Start searching news(naver) with query '(이재용)'...
+The entire date range in 2016-11-01 to 2016-11-30
+
+Reduce date interval...
+Range in 2016-11-01 to 2016-11-15
+
+start counting the entire pages...
+2016-12-06 22:28:23.960393
+
+There're 253 pagelists...
+2016-12-06 22:28:30.989466
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34
+Ambiguous exception with url: http://www.huffingtonpost.kr/yongjun-min/story_b_12859224.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/yongjun-min/story_b_12859224.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/yongjun-min/story_b_12859224.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45
+Ambiguous exception with url: http://www.huffingtonpost.kr/jongil-you/story_b_12779526.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/jongil-you/story_b_12779526.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/jongil-you/story_b_12779526.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=707436.
+Sleep 20 seconds and retry
+, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118
+Timeout error with url: http://www.datanews.co.kr/news/article.html?no=97370.
+Sleep 20 seconds and retry
+, 119, 120, 121
+Timeout error with url: http://www.ajunews.com/view/20161114073003787.
+Sleep 20 seconds and retry
+, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/14/story_n_12952090.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/14/story_n_12952090.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/14/story_n_12952090.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 148
+Ambiguous exception with url: http://www.huffingtonpost.kr/jongil-you/story_b_12908144.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/jongil-you/story_b_12908144.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/jongil-you/story_b_12908144.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/04/story_n_12791408.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/04/story_n_12791408.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/04/story_n_12791408.html.
+Sleep 20 seconds and retry
+, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253Range in 2016-11-16 to 2016-11-30
+
+start counting the entire pages...
+2016-12-06 22:59:13.593182
+
+There're 311 pagelists...
+2016-12-06 22:59:22.482662
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9
+Timeout error with url: http://www.ajunews.com/view/20161130144115153.
+Sleep 20 seconds and retry
+, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/28/story_n_13275884.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/28/story_n_13275884.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/28/story_n_13275884.html.
+Sleep 20 seconds and retry
+, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148
+Timeout error with url: http://www.ajunews.com/view/20161124071148813.
+Sleep 20 seconds and retry
+, 149, 150, 151
+Timeout error with url: http://www.ajunews.com/view/20161124172943909.
+Sleep 20 seconds and retry
+, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182
+Timeout error with url: http://www.ajunews.com/view/20161123135705177.
+Sleep 20 seconds and retry
+, 183, 184, 185, 186, 187, 188, 189, 190
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/23/story_n_13169232.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/23/story_n_13169232.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/23/story_n_13169232.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/21/story_n_13119962.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/21/story_n_13119962.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/16/story_n_12999104.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/16/story_n_12999104.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/16/story_n_12999104.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311
+Finish with query '(이재용)'...
+
+2016-12-06 23:34:51.841491
+
+=============================
+
+All finished
+, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343
+Timeout error with url: http://www.ajunews.com/view/20161102145004404.
+Sleep 20 seconds and retry
+, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=165300.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=165300.
+Sleep 20 seconds and retry
+, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 10710
+
+Range in 2016-11-03 to 2016-11-03
+
+start counting the entire pages...
+2016-12-06 23:13:37.996660
+
+There're 400 pagelists...
+2016-12-06 23:13:51.139741
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8
+Timeout error with url: http://www.ajunews.com/view/20161103093527078.
+Sleep 20 seconds and retry
+, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73
+Timeout error with url: http://www.ajunews.com/view/20161103102623223.
+Sleep 20 seconds and retry
+, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196
+Timeout error with url: http://www.speconomy.com/news/articleView.html?idxno=74705.
+Sleep 20 seconds and retry
+, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 8182
+
+Range in 2016-11-04 to 2016-11-04
+
+start counting the entire pages...
+2016-12-06 23:53:18.663186
+
+There're 400 pagelists...
+2016-12-06 23:53:31.691137
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33
+Ambiguous exception with url: http://www.huffingtonpost.kr/greenpeace-korea/story_b_12795622.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/greenpeace-korea/story_b_12795622.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/greenpeace-korea/story_b_12795622.html.
+Sleep 20 seconds and retry
+, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79
+Timeout error with url: http://www.ajunews.com/view/20161104174444801.
+Sleep 20 seconds and retry
+, 80, 81, 82, 83
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/03/story_n_12795642.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/03/story_n_12795642.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/03/story_n_12795642.html.
+Sleep 20 seconds and retry
+, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/04/story_n_12791362.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=165436.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=165436.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=165436.
+Sleep 20 seconds and retry
+, 378, 379, 380, 381, 382, 383, 384, 385, 386
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=704715.
+Sleep 20 seconds and retry
+, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 2021
+
+Range in 2016-11-05 to 2016-11-05
+
+start counting the entire pages...
+2016-12-07 00:37:11.670581
+
+There're 203 pagelists...
+2016-12-07 00:37:18.113240
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163
+Timeout error with url: http://www.ajunews.com/view/20161105090444917.
+Sleep 20 seconds and retry
+, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=704780.
+Sleep 20 seconds and retry
+, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 3941
+
+Range in 2016-11-06 to 2016-11-06
+
+start counting the entire pages...
+2016-12-07 00:57:53.647624
+
+There're 396 pagelists...
+2016-12-07 00:58:05.960680
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=704850.
+Sleep 20 seconds and retry
+, 82, 83, 84, 85, 86, 87, 88
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/06/story_n_12820058.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/06/story_n_12820058.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/06/story_n_12820058.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=704905.
+Sleep 20 seconds and retry
+, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356
+Timeout error with url: http://www.ajunews.com/view/20161106101004226.
+Sleep 20 seconds and retry
+, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 9990
+
+Range in 2016-11-07 to 2016-11-07
+
+start counting the entire pages...
+2016-12-07 01:42:41.643937
+
+There're 400 pagelists...
+2016-12-07 01:42:54.255439
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+Timeout error with url: http://www.ajunews.com/view/20161107124610298.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.ajunews.com/view/20161107124610298.
+Sleep 20 seconds and retry
+, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34
+Timeout error with url: http://www.ajunews.com/view/20161107082247809.
+Sleep 20 seconds and retry
+, 35, 36, 37, 38, 39, 40, 41, 42
+Timeout error with url: http://www.ajunews.com/view/20161107133806369.
+Sleep 20 seconds and retry
+, 43, 44, 45, 46, 47, 48, 49, 50
+Timeout error with url: http://www.ajunews.com/view/20161107235122997.
+Sleep 20 seconds and retry
+, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=704993.
+Sleep 20 seconds and retry
+, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91
+Timeout error with url: http://www.ajunews.com/view/20161107102057073.
+Sleep 20 seconds and retry
+, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=165549.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=165549.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=165549.
+Sleep 20 seconds and retry
+, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339
+Timeout error with url: http://www.ajunews.com/view/20161107155903726.
+Sleep 20 seconds and retry
+, 340, 341
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12830444.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12830444.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12830444.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 342, 343, 344, 345, 346, 347
+Timeout error with url: http://www.ajunews.com/view/20161107093111943.
+Sleep 20 seconds and retry
+, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398
+Timeout error with url: http://www.ajunews.com/view/20161107142806496.
+Sleep 20 seconds and retry
+, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 10935
+
+Range in 2016-11-08 to 2016-11-08
+
+start counting the entire pages...
+2016-12-07 02:28:32.474585
+
+There're 400 pagelists...
+2016-12-07 02:28:44.817843
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19
+Timeout error with url: http://www.ajunews.com/view/20161108092801320.
+Sleep 20 seconds and retry
+, 20
+Timeout error with url: http://www.ajunews.com/view/20161108084719220.
+Sleep 20 seconds and retry
+, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61
+Timeout error with url: http://stoo.asiae.co.kr/news/naver_view.htm?idxno=2016110819113161272.
+Sleep 20 seconds and retry
+, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/08/story_n_12861050.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/08/story_n_12861050.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/08/story_n_12861050.html.
+Sleep 20 seconds and retry
+, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283
+Timeout error with url: http://www.ajunews.com/view/20161108121837679.
+Sleep 20 seconds and retry
+, 284, 285
+Timeout error with url: http://www.dailynk.com/korean/read.php?cataId=nk04504&num=109615.
+Sleep 20 seconds and retry
+, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324
+Timeout error with url: http://www.itworld.co.kr/news/101957.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=705162.
+Sleep 20 seconds and retry
+, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 13737
+
+Range in 2016-11-09 to 2016-11-09
+
+start counting the entire pages...
+2016-12-07 03:13:44.872424
+
+There're 400 pagelists...
+2016-12-07 03:13:57.134410
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=706123.
+Sleep 20 seconds and retry
+, 16, 17
+Timeout error with url: http://www.ajunews.com/view/20161109170939638.
+Sleep 20 seconds and retry
+, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37
+Timeout error with url: http://www.ajunews.com/view/20161109132129103.
+Sleep 20 seconds and retry
+, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114
+Timeout error with url: http://www.ajunews.com/view/20161109172055658.
+Sleep 20 seconds and retry
+, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128
+Timeout error with url: http://www.newspim.com/news/view/20161109000450.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newspim.com/news/view/20161109000450.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newspim.com/news/view/20161109000450.
+Sleep 20 seconds and retry
+, 129, 130, 131, 132, 133, 134, 135, 136
+Timeout error with url: http://www.newspim.com/news/view/20161109000504.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newspim.com/news/view/20161109000504.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newspim.com/news/view/20161109000504.
+Sleep 20 seconds and retry
+, 137, 138
+Timeout error with url: http://www.newspim.com/news/view/20161109000395.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newspim.com/news/view/20161109000395.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newspim.com/news/view/20161109000395.
+Sleep 20 seconds and retry
+, 139, 140, 141, 142
+Timeout error with url: http://www.newspim.com/news/view/20161109000388.
+Sleep 20 seconds and retry
+, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12879260.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12879260.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433269.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433269.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433269.
+Sleep 20 seconds and retry
+, 216, 217, 218, 219, 220, 221, 222, 223
+Timeout error with url: http://www.ajunews.com/view/20161109213009800.
+Sleep 20 seconds and retry
+, 224, 225, 226, 227, 228, 229, 230, 231, 232
+Timeout error with url: http://www.ajunews.com/view/20161109171104641.
+Sleep 20 seconds and retry
+, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12878368.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12878368.html.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12878368.html.
+Sleep 20 seconds and retry
+, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12877528.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12877528.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12877532.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12877532.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12877532.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347
+Max retrieve error with url: http://www.pbc.co.kr/CMS/news/view_body.php?cid=659707&path=201611.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.pbc.co.kr/CMS/news/view_body.php?cid=659707&path=201611.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.pbc.co.kr/CMS/news/view_body.php?cid=659707&path=201611.
+Sleep 20 seconds and retry
+, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379
+Max retrieve error with url: http://www.choicenews.co.kr/news/articleView.html?idxno=29684.
+Sleep 20 seconds and retry
+, 380
+Ambiguous exception with url: http://www.huffingtonpost.kr/woojung-kim/story_b_12876220.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/woojung-kim/story_b_12876220.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/woojung-kim/story_b_12876220.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 381
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12876182.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12876182.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/09/story_n_12876182.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 382
+Timeout error with url: http://www.upkorea.net/news/articleView.html?idxno=70501.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.upkorea.net/news/articleView.html?idxno=70501.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.upkorea.net/news/articleView.html?idxno=70501.
+Sleep 20 seconds and retry
+, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 12253
+
+Range in 2016-11-10 to 2016-11-10
+
+start counting the entire pages...
+2016-12-07 04:13:08.024524
+
+There're 400 pagelists...
+2016-12-07 04:13:20.345589
+
+Start page: 1, 2, 3, 4, 5, 6
+Timeout error with url: http://www.upkorea.net/news/articleView.html?idxno=70610.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.upkorea.net/news/articleView.html?idxno=70610.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.upkorea.net/news/articleView.html?idxno=70610.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433484.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433484.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433484.
+Sleep 20 seconds and retry
+, 7, 8
+Timeout error with url: http://www.dynews.co.kr/news/articleView.html?idxno=330664.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.dynews.co.kr/news/articleView.html?idxno=330664.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.dynews.co.kr/news/articleView.html?idxno=330664.
+Sleep 20 seconds and retry
+, 9, 10, 11, 12, 13, 14, 15, 16
+Timeout error with url: http://www.businesspost.co.kr/news/articleView.html?idxno=36917.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.businesspost.co.kr/news/articleView.html?idxno=36917.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.businesspost.co.kr/news/articleView.html?idxno=36917.
+Sleep 20 seconds and retry
+, 17, 18, 19, 20, 21, 22, 23, 24, 25
+Ambiguous exception with url: http://www.huffingtonpost.kr/banghee-kim/story_b_12892104.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/banghee-kim/story_b_12892104.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/banghee-kim/story_b_12892104.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 26, 27, 28
+Timeout error with url: http://www.gnmaeil.com/news/articleView.html?idxno=326872.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gnmaeil.com/news/articleView.html?idxno=326872.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.gnmaeil.com/news/articleView.html?idxno=326872.
+Sleep 20 seconds and retry
+, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42
+Timeout error with url: http://www.gwnews.org/news/articleView.html?idxno=91678.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.gwnews.org/news/articleView.html?idxno=91678.
+Sleep 20 seconds and retry
+, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61
+Timeout error with url: http://www.ajunews.com/view/20161110082613964.
+Sleep 20 seconds and retry
+, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71
+Timeout error with url: http://www.ajunews.com/view/20161110091834068.
+Sleep 20 seconds and retry
+, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99
+Timeout error with url: http://www.ajunews.com/view/20161110163548859.
+Sleep 20 seconds and retry
+, 100, 101, 102, 103, 104, 105, 106, 107
+Timeout error with url: http://www.ajunews.com/view/20161110175357981.
+Sleep 20 seconds and retry
+, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144
+Max retrieve error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433449.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433449.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433449.
+Sleep 20 seconds and retry
+, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12882936.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12883696.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12883696.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12883696.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232
+Timeout error with url: http://www.ajunews.com/view/20161110185423007.
+Sleep 20 seconds and retry
+, 233, 234, 235, 236, 237, 238
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/10/story_n_12890718.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 239, 240
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=91666.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.gwnews.org/news/articleView.html?idxno=91666.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.gwnews.org/news/articleView.html?idxno=91666.
+Sleep 20 seconds and retry
+, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255
+Timeout error with url: http://www.ajunews.com/view/20161110180027989.
+Sleep 20 seconds and retry
+, 256
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433465.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433465.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433465.
+Sleep 20 seconds and retry
+, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269
+Timeout error with url: http://www.ajunews.com/view/20161110102946209.
+Sleep 20 seconds and retry
+, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286
+Timeout error with url: http://www.ajunews.com/view/20161110170012916.
+Sleep 20 seconds and retry
+, 287, 288, 289, 290
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12883854.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12883854.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12883854.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433544.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433544.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433544.
+Sleep 20 seconds and retry
+, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 8779
+
+Range in 2016-11-11 to 2016-11-11
+
+start counting the entire pages...
+2016-12-07 05:16:15.805278
+
+There're 400 pagelists...
+2016-12-07 05:16:27.837311
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8
+Ambiguous exception with url: http://www.huffingtonpost.kr/youngjun-kim/story_b_12908088.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/youngjun-kim/story_b_12908088.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/youngjun-kim/story_b_12908088.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 9
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=91824.
+Sleep 20 seconds and retry
+, 10, 11, 12, 13
+Timeout error with url: http://www.ebn.co.kr/news/view/861151.
+Sleep 20 seconds and retry
+, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/11/story_n_12908554.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/11/story_n_12908554.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/11/story_n_12908554.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74
+Timeout error with url: http://www.ajunews.com/view/20161111212629975.
+Sleep 20 seconds and retry
+, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95
+Ambiguous exception with url: http://www.huffingtonpost.kr/dooun-chung-/story_b_12908642.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/dooun-chung-/story_b_12908642.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/dooun-chung-/story_b_12908642.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 96, 97, 98, 99, 100, 101, 102
+Timeout error with url: http://www.ajunews.com/view/20161111113028479.
+Sleep 20 seconds and retry
+, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12906216.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12906216.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12906216.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200
+Timeout error with url: http://www.ajunews.com/view/20161111175421927.
+Sleep 20 seconds and retry
+, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288
+Timeout error with url: http://www.ajunews.com/view/20161111144334676.
+Sleep 20 seconds and retry
+, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340
+Timeout error with url: http://www.ajunews.com/view/20161111092758311.
+Sleep 20 seconds and retry
+, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373
+Timeout error with url: http://www.ajunews.com/view/20161111094731331.
+Sleep 20 seconds and retry
+, 374
+Timeout error with url: http://www.ajunews.com/view/20161111111835454.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.ajunews.com/view/20161111165425870.
+Sleep 20 seconds and retry
+, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=91797.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=91797.
+Sleep 20 seconds and retry
+, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 2847
+
+Range in 2016-11-12 to 2016-11-12
+
+start counting the entire pages...
+2016-12-07 06:06:23.462932
+
+There're 286 pagelists...
+2016-12-07 06:06:32.463782
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70
+Max retrieve error with url: http://www.econovill.com/news/articleView.html?idxno=302332.
+Sleep 20 seconds and retry
+, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/08/story_n_12863504.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/08/story_n_12863504.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/08/story_n_12864328.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/08/story_n_12864328.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/08/story_n_12864328.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179
+Timeout error with url: http://www.ajunews.com/view/20161112193648176.
+Sleep 20 seconds and retry
+, 180, 181, 182, 183, 184
+Timeout error with url: http://www.ajunews.com/view/20161112172347135.
+Sleep 20 seconds and retry
+, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218
+Timeout error with url: http://www.ajunews.com/view/20161112173532141.
+Sleep 20 seconds and retry
+, 219, 220
+Timeout error with url: http://www.ajunews.com/view/20161112135827075.
+Sleep 20 seconds and retry
+, 221, 222, 223, 224, 225, 226
+Timeout error with url: http://www.ajunews.com/view/20161109182519735.
+Sleep 20 seconds and retry
+, 227, 228, 229, 230, 231, 232
+Timeout error with url: http://www.ajunews.com/view/20161112105754043.
+Sleep 20 seconds and retry
+, 233, 234, 235
+Timeout error with url: http://www.ajunews.com/view/20161112114029051.
+Sleep 20 seconds and retry
+, 236, 237, 238
+Timeout error with url: http://www.ajunews.com/view/20161112163602109.
+Sleep 20 seconds and retry
+, 239, 240
+Timeout error with url: http://www.ajunews.com/view/20161112111011047.
+Sleep 20 seconds and retry
+, 241, 242
+Timeout error with url: http://www.ajunews.com/view/20161112103336040.
+Sleep 20 seconds and retry
+, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 4270
+
+Range in 2016-11-13 to 2016-11-13
+
+start counting the entire pages...
+2016-12-07 06:45:07.404605
+
+There're 400 pagelists...
+2016-12-07 06:45:19.315492
+
+Start page: 1, 2, 3
+Timeout error with url: http://www.ajunews.com/view/20161113133042486.
+Sleep 20 seconds and retry
+, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70
+Timeout error with url: http://www.ajunews.com/view/20161113132411480.
+Sleep 20 seconds and retry
+, 71, 72, 73, 74, 75, 76, 77, 78, 79
+Timeout error with url: http://www.ajunews.com/view/20161113184306701.
+Sleep 20 seconds and retry
+, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135
+Timeout error with url: http://www.viva100.com/main/view.php?key=20161113010003922.
+Sleep 20 seconds and retry
+, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166013.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166013.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166013.
+Sleep 20 seconds and retry
+, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207
+Timeout error with url: http://www.ajunews.com/view/20161113023456246.
+Sleep 20 seconds and retry
+, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/13/story_n_12935428.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/13/story_n_12935428.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 218, 219, 220, 221, 222, 223
+Timeout error with url: http://www.ajunews.com/view/20161113202309717.
+Sleep 20 seconds and retry
+, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243
+Timeout error with url: http://www.ajunews.com/view/20161113040828253.
+Sleep 20 seconds and retry
+, 244, 245, 246, 247, 248, 249, 250, 251, 252
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=707077.
+Sleep 20 seconds and retry
+, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299
+Timeout error with url: http://www.ajunews.com/view/20161113151246600.
+Sleep 20 seconds and retry
+, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310
+Timeout error with url: http://stoo.asiae.co.kr/news/naver_view.htm?idxno=2016111315104088083.
+Sleep 20 seconds and retry
+, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335
+Max retrieve error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433825.
+Sleep 20 seconds and retry
+, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376
+Timeout error with url: http://www.jbnews.com/news/articleView.html?idxno=769536.
+Sleep 20 seconds and retry
+, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387
+Timeout error with url: http://www.ajunews.com/view/20161113111501376.
+Sleep 20 seconds and retry
+, 388, 389, 390
+Timeout error with url: http://www.jbnews.com/news/articleView.html?idxno=769800.
+Sleep 20 seconds and retry
+, 391, 392, 393, 394, 395, 396
+Timeout error with url: http://www.ajunews.com/view/20161113081322268.
+Sleep 20 seconds and retry
+, 397, 398
+Timeout error with url: http://www.ajunews.com/view/20161113101118321.
+Sleep 20 seconds and retry
+, 399
+Timeout error with url: http://www.ajunews.com/view/20161113125337447.
+Sleep 20 seconds and retry
+, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 10865
+
+Range in 2016-11-14 to 2016-11-14
+
+start counting the entire pages...
+2016-12-07 07:42:23.147526
+
+There're 400 pagelists...
+2016-12-07 07:42:35.300778
+
+Start page: 1, 2, 3, 4
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92013.
+Sleep 20 seconds and retry
+, 5, 6, 7, 8, 9
+Max retrieve error with url: http://www.newscj.com/news/articleView.html?idxno=386899.
+Sleep 20 seconds and retry
+, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32
+Timeout error with url: http://www.ajunews.com/view/20161113141914538.
+Sleep 20 seconds and retry
+, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42
+Timeout error with url: http://www.ajunews.com/view/20161111170051881.
+Sleep 20 seconds and retry
+, 43, 44, 45, 46, 47
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=433868.
+Sleep 20 seconds and retry
+, 48
+Timeout error with url: http://www.ajunews.com/view/20161114144020616.
+Sleep 20 seconds and retry
+, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12951210.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12951210.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_12951210.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 67, 68, 69, 70, 71, 72, 73, 74, 75
+Timeout error with url: http://www.ajunews.com/view/20161114144323623.
+Sleep 20 seconds and retry
+, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94
+Timeout error with url: http://www.ajunews.com/view/20161114100826141.
+Sleep 20 seconds and retry
+, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=91991.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=91991.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=91991.
+Sleep 20 seconds and retry
+, 119, 120, 121, 122, 123, 124, 125
+Timeout error with url: http://www.ajunews.com/view/20161114112132322.
+Sleep 20 seconds and retry
+, 126, 127, 128, 129
+Timeout error with url: http://www.ajunews.com/view/20161114093623047.
+Sleep 20 seconds and retry
+, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188
+Timeout error with url: http://www.ajunews.com/view/20161114145119640.
+Sleep 20 seconds and retry
+, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/14/story_n_12950350.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/14/story_n_12950350.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/14/story_n_12950350.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283
+Timeout error with url: http://www.ajunews.com/view/20161114150548685.
+Sleep 20 seconds and retry
+, 284, 285
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/13/story_n_12951106.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/13/story_n_12951106.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/13/story_n_12951106.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 286, 287, 288
+Timeout error with url: http://www.ajunews.com/view/20161114121208377.
+Sleep 20 seconds and retry
+, 289, 290, 291
+Max retrieve error with url: http://www.gasnews.com/news/articleView.html?idxno=75844.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gasnews.com/news/articleView.html?idxno=75844.
+Sleep 20 seconds and retry
+, 292, 293, 294, 295, 296, 297
+Ambiguous exception with url: http://www.huffingtonpost.kr/joonmann-kang/story_b_12951244.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/joonmann-kang/story_b_12951244.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/joonmann-kang/story_b_12951244.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=91914.
+Sleep 20 seconds and retry
+, 310, 311, 312, 313, 314
+Timeout error with url: http://www.ajunews.com/view/20161114095617104.
+Sleep 20 seconds and retry
+, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355
+Timeout error with url: http://www.ajunews.com/view/20161114162011890.
+Sleep 20 seconds and retry
+, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370
+Timeout error with url: http://www.ajunews.com/view/20161109082550520.
+Sleep 20 seconds and retry
+, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 10622
+
+Range in 2016-11-15 to 2016-11-15
+
+start counting the entire pages...
+2016-12-07 08:43:24.325303
+
+There're 400 pagelists...
+2016-12-07 08:43:36.920739
+
+Start page: 1, 2, 3, 4, 5, 6, 7
+Timeout error with url: http://www.ajunews.com/view/20161115162212243.
+Sleep 20 seconds and retry
+, 8, 9, 10, 11, 12, 13
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/13/story_n_12939746.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/13/story_n_12939746.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/13/story_n_12939746.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81
+Timeout error with url: http://www.ajunews.com/view/20161115150012031.
+Sleep 20 seconds and retry
+, 82, 83
+Timeout error with url: http://www.ajunews.com/view/20161115143818985.
+Sleep 20 seconds and retry
+, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97
+Timeout error with url: http://www.ajunews.com/view/20161115113347723.
+Sleep 20 seconds and retry
+, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111
+Max retrieve error with url: http://news.mtn.co.kr/newscenter/news_viewer.mtn?gidx=2016111512075122655.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://news.mtn.co.kr/newscenter/news_viewer.mtn?gidx=2016111512075122655.
+Sleep 20 seconds and retry
+, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179
+Timeout error with url: http://www.ajunews.com/view/20161115114151736.
+Sleep 20 seconds and retry
+, 180, 181, 182, 183, 184, 185, 186, 187, 188
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92150.
+Sleep 20 seconds and retry
+, 189, 190, 191
+Timeout error with url: http://www.ajunews.com/view/20161115095435526.
+Sleep 20 seconds and retry
+, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92058.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92058.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92058.
+Sleep 20 seconds and retry
+, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245
+Max retrieve error with url: http://www.ccdn.co.kr/news/articleView.html?idxno=443375.
+Sleep 20 seconds and retry
+, 246
+Timeout error with url: http://www.ajunews.com/view/20161115122109777.
+Sleep 20 seconds and retry
+, 247, 248, 249, 250, 251, 252
+Ambiguous exception with url: http://www.huffingtonpost.kr/greenpeace-korea/story_b_12951908.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/greenpeace-korea/story_b_12951908.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/greenpeace-korea/story_b_12951908.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302
+Max retrieve error with url: http://www.domin.co.kr/news/articleView.html?idxno=1130249.
+Sleep 20 seconds and retry
+, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366
+Timeout error with url: http://www.ajunews.com/view/20161114232516201.
+Sleep 20 seconds and retry
+, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396
+Timeout error with url: http://www.ajunews.com/view/20161115141356928.
+Sleep 20 seconds and retry
+, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 10889
+
+Range in 2016-11-16 to 2016-11-16
+
+start counting the entire pages...
+2016-12-07 09:42:07.351094
+
+There're 400 pagelists...
+2016-12-07 09:42:20.340713
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+Timeout error with url: http://www.ajunews.com/view/20161116074117573.
+Sleep 20 seconds and retry
+, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34
+Timeout error with url: http://www.ajunews.com/view/20161116063252532.
+Sleep 20 seconds and retry
+, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108
+Timeout error with url: http://www.ajunews.com/view/20161116160054450.
+Sleep 20 seconds and retry
+, 109, 110
+Timeout error with url: http://www.ajunews.com/view/20161116113506021.
+Sleep 20 seconds and retry
+, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153
+Timeout error with url: http://www.ajunews.com/view/20161116101356877.
+Sleep 20 seconds and retry
+, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169
+Ambiguous exception with url: http://www.huffingtonpost.kr/sunghae-kim/story_b_12999088.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/sunghae-kim/story_b_12999088.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/sunghae-kim/story_b_12999088.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189
+Timeout error with url: http://ilyo.co.kr/?ac=article_view&entry_id=214453.
+Sleep 20 seconds and retry
+, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207
+Timeout error with url: http://www.ajunews.com/view/20161116212607706.
+Sleep 20 seconds and retry
+, 208, 209, 210, 211, 212, 213, 214
+Timeout error with url: http://www.ajunews.com/view/20161116161433480.
+Sleep 20 seconds and retry
+, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302
+Ambiguous exception with url: http://www.huffingtonpost.kr/insook-kwon/story_b_12998844.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/insook-kwon/story_b_12998844.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/insook-kwon/story_b_12998844.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339
+Max retrieve error with url: http://www.econovill.com/news/articleView.html?idxno=302688.
+Sleep 20 seconds and retry
+, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/15/story_n_13001468.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/15/story_n_13001468.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 10987
+
+Range in 2016-11-17 to 2016-11-17
+
+start counting the entire pages...
+2016-12-07 10:39:09.924327
+
+There're 400 pagelists...
+2016-12-07 10:39:23.354368
+
+Start page: 1
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/17/story_n_13042760.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/17/story_n_13042760.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/17/story_n_13042760.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135
+Timeout error with url: http://www.jbnews.com/news/articleView.html?idxno=770828.
+Sleep 20 seconds and retry
+, 136, 137, 138, 139, 140, 141, 142, 143
+Max retrieve error with url: http://www.ccdn.co.kr/news/articleView.html?idxno=443721.
+Sleep 20 seconds and retry
+, 144, 145
+Timeout error with url: http://www.ajunews.com/view/20161117172408925.
+Sleep 20 seconds and retry
+, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157
+Timeout error with url: http://www.ajunews.com/view/20161117141424505.
+Sleep 20 seconds and retry
+, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313
+Timeout error with url: http://www.ajunews.com/view/20161117160315770.
+Sleep 20 seconds and retry
+, 314, 315, 316
+Timeout error with url: http://www.ajunews.com/view/20161117143722560.
+Sleep 20 seconds and retry
+, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338
+Max retrieve error with url: http://www.speconomy.com/news/articleView.html?idxno=75243.
+Sleep 20 seconds and retry
+, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 8598
+
+Range in 2016-11-18 to 2016-11-18
+
+start counting the entire pages...
+2016-12-07 11:32:14.140805
+
+There're 400 pagelists...
+2016-12-07 11:32:27.290936
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/15/story_n_12977724.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/15/story_n_12977724.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/15/story_n_12977724.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/18/story_n_13063448.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/18/story_n_13063448.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/18/story_n_13063448.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94
+Timeout error with url: http://www.ajunews.com/view/20161118161339739.
+Sleep 20 seconds and retry
+, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122
+Ambiguous exception with url: http://www.huffingtonpost.kr/yuha-park/story_b_13063410.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/yuha-park/story_b_13063410.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/yuha-park/story_b_13063410.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://ilyo.co.kr/?ac=article_view&entry_id=214904.
+Sleep 20 seconds and retry
+, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13066460.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13066460.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13066460.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158
+Timeout error with url: http://www.ajunews.com/view/20161118134443528.
+Sleep 20 seconds and retry
+, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13049886.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13049886.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13049886.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338
+Timeout error with url: http://www.ajunews.com/view/20161118063322080.
+Sleep 20 seconds and retry
+, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382
+Timeout error with url: http://www.ajunews.com/view/20161118171921858.
+Sleep 20 seconds and retry
+, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396
+Timeout error with url: http://www.ajunews.com/view/20161118094931298.
+Sleep 20 seconds and retry
+, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 2700
+
+Range in 2016-11-19 to 2016-11-19
+
+start counting the entire pages...
+2016-12-07 12:29:56.318979
+
+There're 272 pagelists...
+2016-12-07 12:30:05.252333
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56
+Timeout error with url: http://www.ajunews.com/view/20161116163923529.
+Sleep 20 seconds and retry
+, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82
+Timeout error with url: http://www.ajunews.com/view/20161119141820082.
+Sleep 20 seconds and retry
+, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=708919.
+Sleep 20 seconds and retry
+, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147
+Timeout error with url: http://www.ajunews.com/view/20161119211934189.
+Sleep 20 seconds and retry
+, 148, 149, 150, 151, 152, 153, 154, 155, 156
+Timeout error with url: http://www.ajunews.com/view/20161119203932162.
+Sleep 20 seconds and retry
+, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/19/story_n_13087460.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/19/story_n_13087460.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/19/story_n_13087460.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213
+Timeout error with url: http://www.ajunews.com/view/20161119164749113.
+Sleep 20 seconds and retry
+, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229
+Timeout error with url: http://www.ajunews.com/view/20161119091820022.
+Sleep 20 seconds and retry
+, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166446.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166446.
+Sleep 20 seconds and retry
+, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 4393
+
+Range in 2016-11-20 to 2016-11-20
+
+start counting the entire pages...
+2016-12-07 13:12:04.370928
+
+There're 400 pagelists...
+2016-12-07 13:12:17.077951
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82
+Timeout error with url: http://www.ajunews.com/view/20161120183218726.
+Sleep 20 seconds and retry
+, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188
+Timeout error with url: http://www.ajunews.com/view/20161120093216320.
+Sleep 20 seconds and retry
+, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200
+Timeout error with url: http://www.ajunews.com/view/20161120103916376.
+Sleep 20 seconds and retry
+, 201, 202
+Timeout error with url: http://www.ajunews.com/view/20161120092750315.
+Sleep 20 seconds and retry
+, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230
+Timeout error with url: http://www.ajunews.com/view/20161120094711337.
+Sleep 20 seconds and retry
+, 231, 232, 233, 234
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92495.
+Sleep 20 seconds and retry
+, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248
+Timeout error with url: http://www.ajunews.com/view/20161120112142409.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=708981.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=708981.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=708981.
+Sleep 20 seconds and retry
+, 249, 250, 251, 252, 253, 254
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=708939.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=708939.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=708939.
+Sleep 20 seconds and retry
+, 255, 256, 257, 258
+Timeout error with url: http://www.ajunews.com/view/20161120100856347.
+Sleep 20 seconds and retry
+, 259, 260, 261
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=709072.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=709072.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=709072.
+Sleep 20 seconds and retry
+, 262
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=709070.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=709070.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=709070.
+Sleep 20 seconds and retry
+, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=709062.
+Sleep 20 seconds and retry
+, 275, 276
+Timeout error with url: http://www.ajunews.com/view/20161120183035723.
+Sleep 20 seconds and retry
+, 277, 278, 279
+Timeout error with url: http://www.ajunews.com/view/20161120182317720.
+Sleep 20 seconds and retry
+, 280, 281, 282, 283
+Timeout error with url: http://www.ajunews.com/view/20161120123404477.
+Sleep 20 seconds and retry
+, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166489.
+Sleep 20 seconds and retry
+, 296, 297
+Timeout error with url: http://www.ajunews.com/view/20161120144837604.
+Sleep 20 seconds and retry
+, 298, 299, 300, 301, 302, 303, 304, 305
+Timeout error with url: http://www.ajunews.com/view/20161120153007630.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.ajunews.com/view/20161120163806660.
+Sleep 20 seconds and retry
+, 306
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=434542.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.daejeontoday.com/news/articleView.html?idxno=434542.
+Sleep 20 seconds and retry
+, 307, 308, 309, 310, 311
+Timeout error with url: http://www.ajunews.com/view/20161120093145319.
+Sleep 20 seconds and retry
+, 312, 313, 314, 315, 316, 317
+Timeout error with url: http://www.ajunews.com/view/20161120160345648.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.ajunews.com/view/20161120210310766.
+Sleep 20 seconds and retry
+, 318, 319, 320, 321, 322, 323
+Timeout error with url: http://www.ajunews.com/view/20161118104531366.
+Sleep 20 seconds and retry
+, 324, 325, 326, 327, 328, 329, 330, 331, 332
+Timeout error with url: http://www.ajunews.com/view/20161120124416492.
+Sleep 20 seconds and retry
+, 333
+Timeout error with url: http://www.ajunews.com/view/20161120170558676.
+Sleep 20 seconds and retry
+, 334, 335, 336, 337
+Timeout error with url: http://www.ajunews.com/view/20161119212616196.
+Sleep 20 seconds and retry
+, 338
+Timeout error with url: http://www.mediapen.com/news/view/207967.
+Sleep 20 seconds and retry
+, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351
+Timeout error with url: http://www.ajunews.com/view/20161120095939340.
+Sleep 20 seconds and retry
+, 352, 353, 354, 355, 356, 357, 358
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13080782.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 10462
+
+Range in 2016-11-21 to 2016-11-21
+
+start counting the entire pages...
+2016-12-07 14:27:21.436143
+
+There're 400 pagelists...
+2016-12-07 14:27:35.020290
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28
+Timeout error with url: http://www.ajunews.com/view/20161121101820184.
+Sleep 20 seconds and retry
+, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150
+Timeout error with url: http://www.ajunews.com/view/20161121093410109.
+Sleep 20 seconds and retry
+, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160
+Timeout error with url: http://www.ajunews.com/view/20161121191302979.
+Sleep 20 seconds and retry
+, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193
+Timeout error with url: http://www.ajunews.com/view/20161121093819119.
+Sleep 20 seconds and retry
+, 194, 195
+Timeout error with url: http://www.ajunews.com/view/20161121110603272.
+Sleep 20 seconds and retry
+, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211
+Timeout error with url: http://www.ajunews.com/view/20161121095603144.
+Sleep 20 seconds and retry
+, 212, 213, 214, 215, 216
+Timeout error with url: http://www.ajunews.com/view/20161121150910641.
+Sleep 20 seconds and retry
+, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=709239.
+Sleep 20 seconds and retry
+, 235, 236, 237, 238, 239, 240
+Max retrieve error with url: http://www.ccdn.co.kr/news/articleView.html?idxno=443970.
+Sleep 20 seconds and retry
+, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/21/-_n_13118590.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=709317.
+Sleep 20 seconds and retry
+, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=709001.
+Sleep 20 seconds and retry
+, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/21/story_n_13116536.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/21/story_n_13116536.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/21/story_n_13116536.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 11383
+
+Range in 2016-11-22 to 2016-11-22
+
+start counting the entire pages...
+2016-12-07 15:24:54.187879
+
+There're 400 pagelists...
+2016-12-07 15:25:07.650223
+
+Start page: 1, 2, 3, 4, 5
+Timeout error with url: http://www.ajunews.com/view/20161122073944135.
+Sleep 20 seconds and retry
+, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49
+Max retrieve error with url: http://www.hkbs.co.kr/?m=bbs&bid=local4&uid=409752.
+Sleep 20 seconds and retry
+, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68
+Ambiguous exception with url: http://www.huffingtonpost.kr/salimstory/story_b_13139528.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/salimstory/story_b_13139528.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/salimstory/story_b_13139528.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 69, 70, 71, 72, 73, 74, 75, 76, 77
+Timeout error with url: http://www.ajunews.com/view/20161122105905543.
+Sleep 20 seconds and retry
+, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93
+Timeout error with url: http://www.ajunews.com/view/20161122155843176.
+Sleep 20 seconds and retry
+, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118
+Timeout error with url: http://www.ajunews.com/view/20161122174810363.
+Sleep 20 seconds and retry
+, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147
+Timeout error with url: http://www.ajunews.com/view/20161122172843336.
+Sleep 20 seconds and retry
+, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195
+Timeout error with url: http://www.ajunews.com/view/20161122151058069.
+Sleep 20 seconds and retry
+, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/22/story_n_13141706.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/22/story_n_13141706.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234
+Timeout error with url: http://www.ajunews.com/view/20161122164109263.
+Sleep 20 seconds and retry
+, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92612.
+Sleep 20 seconds and retry
+, 272, 273, 274, 275, 276, 277, 278
+Timeout error with url: http://www.ajunews.com/view/20161122110543567.
+Sleep 20 seconds and retry
+, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339
+Timeout error with url: http://www.ajunews.com/view/20161122153455125.
+Sleep 20 seconds and retry
+, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352
+Timeout error with url: http://www.ajunews.com/view/20161122102950485.
+Sleep 20 seconds and retry
+, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 10725
+
+Range in 2016-11-23 to 2016-11-23
+
+start counting the entire pages...
+2016-12-07 16:25:48.854516
+
+There're 400 pagelists...
+2016-12-07 16:26:03.490332
+
+Start page: 1, 2, 3
+Timeout error with url: http://www.ajunews.com/view/20161123190544661.
+Sleep 20 seconds and retry
+, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103
+Timeout error with url: http://www.ajunews.com/view/20161123131857099.
+Sleep 20 seconds and retry
+, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92695.
+Sleep 20 seconds and retry
+, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160
+Timeout error with url: http://www.ajunews.com/view/20161123142043222.
+Sleep 20 seconds and retry
+, 161, 162, 163, 164, 165, 166, 167
+Timeout error with url: http://www.ajunews.com/view/20161123141601209.
+Sleep 20 seconds and retry
+, 168, 169, 170, 171, 172, 173
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92765.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92765.
+Sleep 20 seconds and retry
+, 174, 175, 176, 177, 178, 179, 180, 181
+Timeout error with url: http://www.ajunews.com/view/20161123160901447.
+Sleep 20 seconds and retry
+, 182, 183, 184, 185
+Timeout error with url: http://www.ajunews.com/view/20161123091842744.
+Sleep 20 seconds and retry
+, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216
+Timeout error with url: http://www.ajunews.com/view/20161123144509273.
+Sleep 20 seconds and retry
+, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226
+Max retrieve error with url: http://www.catholictimes.org/article/article_view.php?aid=275850.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.catholictimes.org/article/article_view.php?aid=275850.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.catholictimes.org/article/article_view.php?aid=275850.
+Sleep 20 seconds and retry
+, 227, 228, 229, 230, 231, 232, 233, 234
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13150550.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13150550.html?utm_id=naver.Finish reading configuration file...
+Start creating database...
+Finish connecting to database...
+
+There's no query term. Start trying collect all section...
+Start searching news on section '(economy)'...
+start date 2016-11-01
+2016-12-07 16:28:54.512524
+start date 2016-11-02
+2016-12-07 16:30:31.344615
+start date 2016-11-03
+2016-12-07 16:31:59.911647
+start date 2016-11-04
+2016-12-07 16:33:24.165285
+start date 2016-11-05
+2016-12-07 16:35:00.044230
+start date 2016-11-06
+2016-12-07 16:35:36.559487
+start date 2016-11-07
+2016-12-07 16:36:53.376065
+start date 2016-11-08
+2016-12-07 16:38:25.878527
+start date 2016-11-09
+2016-12-07 16:39:55.264719
+start date 2016-11-10
+2016-12-07 16:41:40.766012
+start date 2016-11-11
+2016-12-07 16:43:15.976402
+start date 2016-11-12
+2016-12-07 16:44:48.544399
+start date 2016-11-13
+2016-12-07 16:45:42.163221
+start date 2016-11-14
+2016-12-07 16:47:02.912275
+start date 2016-11-15
+2016-12-07 16:48:32.239017
+start date 2016-11-16
+2016-12-07 16:49:58.550313
+start date 2016-11-17
+2016-12-07 16:51:35.746122
+start date 2016-11-18
+2016-12-07 16:53:05.297610
+start date 2016-11-19
+2016-12-07 16:54:37.429103
+start date 2016-11-20
+2016-12-07 16:55:22.402843
+start date 2016-11-21
+2016-12-07 16:56:37.830096
+start date 2016-11-22
+2016-12-07 16:58:09.922454
+start date 2016-11-23
+2016-12-07 16:59:39.473475
+start date 2016-11-24
+2016-12-07 17:01:07.646222
+start date 2016-11-25
+2016-12-07 17:02:36.958388
+start date 2016-11-26
+2016-12-07 17:04:06.686802
+start date 2016-11-27
+2016-12-07 17:04:29.559767
+start date 2016-11-28
+2016-12-07 17:06:03.859727
+start date 2016-11-29
+2016-12-07 17:07:42.005570
+start date 2016-11-30
+2016-12-07 17:09:12.481739
+
+Finish on section '(economy)'...
+
+2016-12-07 17:10:40.992462
+
+=============================
+
+All finished
+
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13150550.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 235
+Timeout error with url: http://www.ajunews.com/view/20161123151202336.
+Sleep 20 seconds and retry
+, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247
+Timeout error with url: http://www.konas.net/article/article.asp?idx=47355.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.konas.net/article/article.asp?idx=47355.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.konas.net/article/article.asp?idx=47355.
+Sleep 20 seconds and retry
+, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284
+Timeout error with url: http://www.ajunews.com/view/20161123150224313.
+Sleep 20 seconds and retry
+, 285, 286, 287
+Timeout error with url: http://www.ajunews.com/view/20161123132229105.
+Sleep 20 seconds and retry
+, 288
+Timeout error with url: http://www.ajunews.com/view/20161122143953954.
+Sleep 20 seconds and retry
+, 289, 290
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=710076.
+Sleep 20 seconds and retry
+, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307
+Timeout error with url: http://www.ajunews.com/view/20161123170017549.
+Sleep 20 seconds and retry
+, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 11294
+
+Range in 2016-11-24 to 2016-11-24
+
+start counting the entire pages...
+2016-12-07 17:33:11.155251
+
+There're 400 pagelists...
+2016-12-07 17:33:24.436284
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92788.
+Sleep 20 seconds and retry
+, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=710315.
+Sleep 20 seconds and retry
+, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=710311.
+Sleep 20 seconds and retry
+, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88
+Timeout error with url: http://www.ajunews.com/view/20161124204042979.
+Sleep 20 seconds and retry
+, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156
+Timeout error with url: http://www.ajunews.com/view/20161124145450556.
+Sleep 20 seconds and retry
+, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169
+Timeout error with url: http://www.newstomato.com/ReadNews.aspx?no=710521.
+Sleep 20 seconds and retry
+, 170
+Timeout error with url: http://www.ajunews.com/view/20161124134456374.
+Sleep 20 seconds and retry
+, 171, 172, 173
+Max retrieve error with url: http://www.ccdn.co.kr/news/articleView.html?idxno=444357.
+Sleep 20 seconds and retry
+, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13174856.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13174856.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13174856.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 223, 224, 225
+Timeout error with url: http://www.ajunews.com/view/20161124145838571.
+Sleep 20 seconds and retry
+, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298
+Timeout error with url: http://www.itworld.co.kr/news/102244.
+Sleep 20 seconds and retry
+, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=710260.
+Sleep 20 seconds and retry
+, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 8324
+
+Range in 2016-11-25 to 2016-11-25
+
+start counting the entire pages...
+2016-12-07 18:32:23.923655
+
+There're 400 pagelists...
+2016-12-07 18:32:36.906033
+
+Start page: 1
+Timeout error with url: http://www.dgmbc.com/news/view2.do?nav=news&selectedId=203405&class_code1=&news_cate=null.
+Sleep 20 seconds and retry
+, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51
+Ambiguous exception with url: http://www.huffingtonpost.kr/dr-ioannis-glinavos/story_b_13219584.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/dr-ioannis-glinavos/story_b_13219584.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/dr-ioannis-glinavos/story_b_13219584.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63
+Timeout error with url: http://www.sporbiz.co.kr/news/articleView.html?idxno=55019.
+Sleep 20 seconds and retry
+, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81
+Timeout error with url: http://www.ajunews.com/view/20161125093320173.
+Sleep 20 seconds and retry
+, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128
+Ambiguous exception with url: http://www.huffingtonpost.kr/greenpeace-korea/story_b_13197326.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/greenpeace-korea/story_b_13197326.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/greenpeace-korea/story_b_13197326.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193
+Timeout error with url: http://www.ajunews.com/view/20161125142629498.
+Sleep 20 seconds and retry
+, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166900.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166900.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166900.
+Sleep 20 seconds and retry
+, 255, 256, 257, 258, 259, 260
+Timeout error with url: http://www.ajunews.com/view/20161125144941533.
+Sleep 20 seconds and retry
+, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92938.
+Sleep 20 seconds and retry
+, 330, 331, 332, 333, 334, 335
+Max retrieve error with url: http://www.futurekorea.co.kr/news/articleView.html?idxno=34165.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.futurekorea.co.kr/news/articleView.html?idxno=34165.
+Sleep 20 seconds and retry
+, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 2832
+
+Range in 2016-11-26 to 2016-11-26
+
+start counting the entire pages...
+2016-12-07 19:33:54.725429
+
+There're 284 pagelists...
+2016-12-07 19:34:03.859192
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194
+Max retrieve error with url: http://www.monews.co.kr/news/articleView.html?idxno=95224.
+Sleep 20 seconds and retry
+, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237
+Timeout error with url: http://www.ajunews.com/view/20161126104847950.
+Sleep 20 seconds and retry
+, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=92991.
+Sleep 20 seconds and retry
+, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=710792.
+Sleep 20 seconds and retry
+, 276, 277, 278, 279, 280, 281, 282, 283, 284Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 4380
+
+Range in 2016-11-27 to 2016-11-27
+
+start counting the entire pages...
+2016-12-07 20:17:02.789349
+
+There're 400 pagelists...
+2016-12-07 20:17:16.489924
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59
+Timeout error with url: http://www.ajunews.com/view/20161127102630261.
+Sleep 20 seconds and retry
+, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=93004.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=93004.
+Sleep 20 seconds and retry
+
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=93004.
+Sleep 20 seconds and retry
+, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215
+Timeout error with url: http://www.sporbiz.co.kr/news/articleView.html?idxno=55259.
+Sleep 20 seconds and retry
+, 216, 217
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/27/-_n_13261566.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/27/-_n_13261566.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/2016/11/27/-_n_13261566.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285
+Timeout error with url: http://www.ajunews.com/view/20161127150955521.
+Sleep 20 seconds and retry
+, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=166974.
+Sleep 20 seconds and retry
+, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351
+Timeout error with url: http://www.konas.net/article/article.asp?idx=47384.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.konas.net/article/article.asp?idx=47384.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.konas.net/article/article.asp?idx=47384.
+Sleep 20 seconds and retry
+, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=711080.
+Sleep 20 seconds and retry
+, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391
+Timeout error with url: http://www.ajunews.com/view/20161127014337177.
+Sleep 20 seconds and retry
+, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+Reduce date interval...
+The start date and the end date is now same. entire count: 11315
+
+Range in 2016-11-28 to 2016-11-28
+
+start counting the entire pages...
+2016-12-07 21:23:55.444335
+
+There're 400 pagelists...
+2016-12-07 21:24:08.971753
+
+Start page: 1, 2, 3, 4, 5, 6, 7
+Timeout error with url: http://www.jbnews.com/news/articleView.html?idxno=772375.
+Sleep 20 seconds and retry
+, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31
+Timeout error with url: http://news.mtn.co.kr/newscenter/news_viewer.mtn?gidx=2016112809203114002.
+Sleep 20 seconds and retry
+, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=93039.
+Sleep 20 seconds and retry
+, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13275840.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13275840.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/korean-agenda/story_b_13275840.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=93089.
+Sleep 20 seconds and retry
+, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192
+Ambiguous exception with url: http://www.huffingtonpost.kr/wonjae-lee/story_b_13271510.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/wonjae-lee/story_b_13271510.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/wonjae-lee/story_b_13271510.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=711452.
+Sleep 20 seconds and retry
+, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291
+Max retrieve error with url: http://www.newstomato.com/ReadNews.aspx?no=711375.
+Sleep 20 seconds and retry
+, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=167100.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=167100.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.fntimes.com/paper/view.aspx?num=167100.
+Sleep 20 seconds and retry
+, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400Reduce date interval...
+The start date and the end date is now same. entire count: 11077
+
+Range in 2016-11-29 to 2016-11-29
+
+start counting the entire pages...
+2016-12-07 22:26:15.019762
+
+There're 400 pagelists...
+2016-12-07 22:26:28.329146
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186
+Timeout error with url: http://www.konas.net/article/article.asp?idx=47394.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.konas.net/article/article.asp?idx=47394.
+Sleep 20 seconds and retry
+
+Timeout error with url: http://www.konas.net/article/article.asp?idx=47394.
+Sleep 20 seconds and retry
+, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201
+Timeout error with url: http://www.taxtimes.co.kr/hous01.htm?r_id=224669.
+Sleep 20 seconds and retry
+, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=93188.
+Sleep 20 seconds and retry
+, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365
+Max retrieve error with url: http://www.gwnews.org/news/articleView.html?idxno=93164.
+Sleep 20 seconds and retry
+, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400The start date and the end date is now same. entire count: 11272
+
+Range in 2016-11-30 to 2016-11-30
+
+start counting the entire pages...
+2016-12-07 23:22:19.478525
+
+There're 400 pagelists...
+2016-12-07 23:22:32.817280
+
+Start page: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93
+Ambiguous exception with url: http://www.huffingtonpost.kr/clover-moore/story_b_13318550.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/clover-moore/story_b_13318550.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/clover-moore/story_b_13318550.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321
+Ambiguous exception with url: http://www.huffingtonpost.kr/dongchoon-kim-/story_b_13312474.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/dongchoon-kim-/story_b_13312474.html?utm_id=naver.
+Sleep 20 seconds and retry
+
+Ambiguous exception with url: http://www.huffingtonpost.kr/dongchoon-kim-/story_b_13312474.html?utm_id=naver.
+Sleep 20 seconds and retry
+, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400
+Finish with query '(경제)'...
+
+2016-12-08 00:17:56.418043
+
+=============================
+
+All finished
+Finish reading configuration file...
+Start creating database...
+Finish connecting to database...
+Traceback (most recent call last):
+  File "main.py", line 14, in <module>
+    nc.start_work()
+  File "/home/tsmm/crawler/newsCrawler3/newsCrawler.py", line 65, in start_work
+ImportError: No module named 'newsCrawler3.naverNews'

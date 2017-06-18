@@ -1,0 +1,32 @@
+##### REQUIRED parameter
+# project: DB name
+# source: kinds or naver
+# query: If there're multiple queries then split it with semicolon(;) and whitespace in the query string is accepted
+# comment: True of False. If True, crawler will collect both article and its comments ('False' is faster)
+# order: datetime.dsc or rel.dsc
+# start_date: start date of acquisition range
+# retry: How many time to retry when some request error occurs. Recommended default is 4
+
+project=president
+source=naver
+query=박근혜
+comment=False
+order=rel.dsc
+start_date=2017-03-10
+retry=4
+timeZone=Asia/Seoul
+
+
+
+##### OPTIONAL parameter
+# end_date: If there's no end_date parameter(comment out), default is 'now'
+# section: If you setup 'query' parameter, it'll be ignored
+#          possible sections are politics;economy;society;livingCulture;world;ITScience
+#          politics: from 2009-06-04 available
+#          economy: from 2009-08-01 available
+#          society, world: from 2009-06-05 available
+#          livingCulture: from 2009-06-06 available
+#          ITScience: from 2009-06-12 available
+
+#end_date=2016-11-30
+#section=politics
