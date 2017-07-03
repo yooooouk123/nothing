@@ -30,7 +30,7 @@ public class NaverBlogCrawler {
 		int total_count = 0;
 		int keyword_count = 0;
 		Writer out = new BufferedWriter(
-				new OutputStreamWriter(new FileOutputStream("./data/" + query + ".txt"), "UTF-8"));
+				new OutputStreamWriter(new FileOutputStream("./data/" + query + "3.txt"), "UTF-8"));
 		Calendar cal = Calendar.getInstance();
 		cal.setTime(this.start_date);
 		Calendar cal_end = Calendar.getInstance();
@@ -49,7 +49,7 @@ public class NaverBlogCrawler {
 				System.out.println("date pass...");
 				break;
 			}
-			Thread.sleep(500L);
+			Thread.sleep(2000);
 			Elements group_els = page.select("p[class=several_post] > em");
 			int total = 0;
 			try {
@@ -73,13 +73,14 @@ public class NaverBlogCrawler {
 						"http://section.blog.naver.com/sub/SearchBlog.nhn?type=post&option.keyword=\"" + query
 								+ "\"&term=period&option." + "startDate=" + start + "&option." + "endDate=" + end
 								+ "&option.page.currentPage=" + j + "&option.orderBy=sim";
+				Thread.sleep(2000);
 				try {
 					page = Jsoup.connect(initUrl).timeout(10000).userAgent("Mozilla").get();
 				} catch (Exception e) {
 					System.out.println(e);
 					continue;
 				}
-				Thread.sleep(500L);
+				Thread.sleep(1000);
 				group_els = page.select("h5 > a");
 				for (Element el : group_els) {
 					String blog_url = el.attr("abs:href");
@@ -185,10 +186,9 @@ public class NaverBlogCrawler {
 	public static void main(String[] args) {
 		System.out.println("Hi~");
 		try {
-			String[] abc={"성북","강북","동대문"};
-			HashMap<String, ArrayList<String>> am = parseArgs(abc);
+			HashMap<String, ArrayList<String>> am = parseArgs(args);
 			ArrayList<String> queryList = null;
-			String startDate = "2007-06-01";
+			String startDate = "2015-05-12";
 			String endDate = "2017-06-01";
 			for (String k : am.keySet()) {
 				if (k == null) {
